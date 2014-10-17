@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[esu:home|Door43 (esu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-esu|d43-esu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-esu/archive/master.zip|d43-esu.zip]]
+
+**Recent Changes**
+{{changes>ns = esu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/esu|Ethnologue data]]
+
